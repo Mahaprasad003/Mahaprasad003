@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahaprasad_" target="blank"><img src="https://img.shields.io/twitter/follow/mahaprasad_?logo=twitter&style=for-the-badge" alt="mahaprasad_" /></a> </p>
 
-- 🔭 I’m currently working on **Competitive Programming**
+- 🔭 I’m currently working on **CP, Doing Data stuff on the side**
 
 - 🌱 I’m currently learning **C++, DSA, Python**
 
